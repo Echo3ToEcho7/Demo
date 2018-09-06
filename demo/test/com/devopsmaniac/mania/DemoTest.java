@@ -8,6 +8,7 @@ public class DemoTest {
 
 	@Test
 	public void somethingRandom() {
+		
 		assertEquals( 1, Demo.somethingRandom() );
 	}
 }
